@@ -7,6 +7,6 @@ course starter help quick to learn
 
 ```
 $ git clone https://github.com/Mwangzhi/counter
-$ cd starter && npm install
-$ npm counter
+$ cd counter && npm install
+$ npm start
 ```
